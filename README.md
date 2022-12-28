@@ -4,4 +4,4 @@ This Examination Management System is helpful for managing their exams online. I
 
 This project is developed for assignment purposes in the university year 02 semester 01 module called Object Oriented Programming. 
 
-◾ Used Technologies - Java and HTML, CSS, JavaScript
+◾ Used Technologies - Java, HTML, CSS and JavaScript
